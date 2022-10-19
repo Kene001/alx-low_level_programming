@@ -1,11 +1,12 @@
 #include "main.h"
 /**
- * main - print _putchar
- * is written by Kenwobo
- * Return: 0
+ * main - Entry point
+ * written by Kenwobo
+ * Return: Always returns 0
 */
 
 int main(void)
+
 {
 _putchar('_');
 _putchar('p');
